@@ -1,7 +1,5 @@
 🧠 AI-Powered Interview Prep App
 A full-stack MERN web application that helps users prepare for technical interviews by submitting questions and receiving AI-powered answers. Built with modern tech (React + Tailwind + OpenAI), it's ideal for developers preparing for coding interviews.
-
-<div align="center"> <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg" alt="AI Interview Prep - YouTube Tutorial" width="70%" /> <br /> 🎥 <strong><a href="#">Watch Video Tutorial on YouTube</a></strong> </div>
 🚀 Features
 💬 AI-based Q&A: Submit any tech/interview question and get intelligent, in-depth answers.
 ⚙️ Full-Stack MERN architecture:
